@@ -20,4 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2270-number-of-ways-to-split-array](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/2270-number-of-ways-to-split-array) |
+## Tree
+|  |
+| ------- |
+| [0951-flip-equivalent-binary-trees](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0951-flip-equivalent-binary-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0951-flip-equivalent-binary-trees](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0951-flip-equivalent-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0951-flip-equivalent-binary-trees](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0951-flip-equivalent-binary-trees) |
 <!---LeetCode Topics End-->
