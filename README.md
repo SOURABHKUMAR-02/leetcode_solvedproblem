@@ -12,4 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1683-invalid-tweets) |
+## Array
+|  |
+| ------- |
+| [2270-number-of-ways-to-split-array](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/2270-number-of-ways-to-split-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [2270-number-of-ways-to-split-array](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/2270-number-of-ways-to-split-array) |
 <!---LeetCode Topics End-->
