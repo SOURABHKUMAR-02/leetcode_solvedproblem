@@ -39,4 +39,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1367-linked-list-in-binary-tree](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1367-linked-list-in-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## String
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
