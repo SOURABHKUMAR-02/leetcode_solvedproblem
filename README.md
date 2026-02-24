@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0213-house-robber-ii](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0213-house-robber-ii) |
 | [2270-number-of-ways-to-split-array](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/2270-number-of-ways-to-split-array) |
 ## Prefix Sum
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0213-house-robber-ii](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
