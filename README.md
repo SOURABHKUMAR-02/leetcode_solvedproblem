@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0213-house-robber-ii) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2270-number-of-ways-to-split-array](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/2270-number-of-ways-to-split-array) |
 ## Prefix Sum
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0213-house-robber-ii](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0509-fibonacci-number) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Recursion
 |  |
 | ------- |
