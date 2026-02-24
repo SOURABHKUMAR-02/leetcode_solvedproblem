@@ -26,16 +26,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0951-flip-equivalent-binary-trees](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0951-flip-equivalent-binary-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1367-linked-list-in-binary-tree](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0951-flip-equivalent-binary-trees](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0951-flip-equivalent-binary-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1367-linked-list-in-binary-tree](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0951-flip-equivalent-binary-trees](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0951-flip-equivalent-binary-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1367-linked-list-in-binary-tree](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1367-linked-list-in-binary-tree) |
 ## Linked List
 |  |
