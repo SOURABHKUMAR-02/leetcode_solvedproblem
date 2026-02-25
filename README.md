@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0300-longest-increasing-subsequence) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2270-number-of-ways-to-split-array](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/2270-number-of-ways-to-split-array) |
 ## Prefix Sum
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
 |  |
@@ -105,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0300-longest-increasing-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
