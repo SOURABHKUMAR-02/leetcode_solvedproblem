@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3813-vowel-consonant-score](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3813-vowel-consonant-score) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3813-vowel-consonant-score](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3813-vowel-consonant-score) |
 | [3819-rotate-non-negative-elements](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3819-rotate-non-negative-elements) |
 | [3834-merge-adjacent-equal-elements](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3834-merge-adjacent-equal-elements) |
 <!---LeetCode Topics End-->
