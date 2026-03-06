@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0509-fibonacci-number) |
+| [3783-mirror-distance-of-an-integer](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
