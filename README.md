@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0213-house-robber-ii](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0300-longest-increasing-subsequence) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0274-h-index) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3813-vowel-consonant-score](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3813-vowel-consonant-score) |
 | [3819-rotate-non-negative-elements](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3819-rotate-non-negative-elements) |
 | [3834-merge-adjacent-equal-elements](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3834-merge-adjacent-equal-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
