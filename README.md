@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2270-number-of-ways-to-split-array](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/2270-number-of-ways-to-split-array) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3819-rotate-non-negative-elements](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3819-rotate-non-negative-elements) |
 | [3833-count-dominant-indices](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3833-count-dominant-indices) |
@@ -56,10 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## String
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3813-vowel-consonant-score](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3813-vowel-consonant-score) |
 ## Bit Manipulation
 |  |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3833-count-dominant-indices](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3833-count-dominant-indices) |
 ## Stack
 |  |
