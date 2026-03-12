@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-number-of-ways-to-split-array](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/2270-number-of-ways-to-split-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3819-rotate-non-negative-elements](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3819-rotate-non-negative-elements) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0239-sliding-window-maximum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
