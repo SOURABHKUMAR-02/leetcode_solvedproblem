@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0692-top-k-frequent-words) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0658-find-k-closest-elements) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0692-top-k-frequent-words) |
 ## Monotonic Queue
 |  |
@@ -132,11 +135,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0274-h-index](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0692-top-k-frequent-words) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
@@ -175,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0692-top-k-frequent-words) |
+## Two Pointers
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
