@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0692-top-k-frequent-words) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2270-number-of-ways-to-split-array](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/2270-number-of-ways-to-split-array) |
@@ -60,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0692-top-k-frequent-words) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## String
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0692-top-k-frequent-words) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3813-vowel-consonant-score](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3813-vowel-consonant-score) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0692-top-k-frequent-words) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -133,10 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0692-top-k-frequent-words) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0692-top-k-frequent-words) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Enumeration
 |  |
@@ -161,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
