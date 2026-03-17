@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0973-k-closest-points-to-origin) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2270-number-of-ways-to-split-array](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/2270-number-of-ways-to-split-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0973-k-closest-points-to-origin) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0973-k-closest-points-to-origin) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
@@ -184,4 +188,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0658-find-k-closest-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/SOURABHKUMAR-02/leetcode_solvedproblem/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
